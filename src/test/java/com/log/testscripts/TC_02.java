@@ -19,6 +19,7 @@ public class TC_02 {
 	Thread.sleep(2000);
 	Acceptmeeting.acceptmeeting();
 	Thread.sleep(1000);
+	System.out.println("push message");
 	
 }
 }
